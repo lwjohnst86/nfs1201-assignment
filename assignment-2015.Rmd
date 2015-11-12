@@ -1,231 +1,60 @@
 ---
-output: word_document
+output: 
+    word_document:
+        reference_docx: 'template.docx'
 ---
 
-<!--
-# Template
-
-Statement of the problem.
-
-Develop and describe the assignment topic.
-
-In doing this assignment, it is expected that you will critically review
-literature on food insecurity to develop an evidence-based analysis of the
-problem and its potential solutions.
-
-Your proposed intervention approach should be realistic, but this means that it
-needs to be evidence-based and clearly grounded in an analysis of the problem
-you are trying to fix.
-
-To make this assignment manageable, you may find it easiest to focus on a single
-intervention strategy, rather than an array of different interventions. Whatever
-intervention strategy you propose, it is important to pick something that you
-can argue persuasively would have a palpable impact on food insecurity in
-{{LOCATION}}.
-
-Your assignment should be approximately 1,200 words in length, not including 
-references.  It should be submitted to FitzGerald building room 315 by 5pm on
-{{DATE}}.  (Any extension to this deadline will require prior
-approval from the instructor.) Assignments submitted by fax or email will not be
-accepted.
-
-## Example from 2013
-
-Household food insecurity is now recognized as a serious public health problem
-in Canada, but to date, there has been no targeted public policy action to
-address this problem.  The absence of comprehensive, effective interventions at
-the federal and provincial levels has given rise to extensive charitable food
-provisioning, but also to several smaller scale, community initiatives (e.g.,
-community gardens, community kitchens, ‘good food’ boxes, farmers’ markets, etc)
-that are intended, among other goals,  to increase access to nutritious food
-among low-income groups.  While it is difficult to fully gauge the impact of
-community efforts on problems of household food insecurity, the persistently
-high prevalence rates charted nationally in recent years suggest that other
-responses are needed.
-
-Suppose that the province of Ontario wanted to develop a strategy to reduce food
-insecurity.  Considering what is currently known about household food
-insecurity, what would you propose as an effective intervention strategy to
-reduce the prevalence of household food insecurity in this province?   Drawing
-on key concepts from this course, outline an intervention strategy for the
-reduction of food insecurity in Ontario.  Provide a clear rationale for the
-focus (or foci) of your strategy, identify the core elements of the
-intervention, and explain how, given your understanding of the problem, the
-strategy you propose should function to lower the prevalence and/or severity of
-household food insecurity in Ontario.  In discussing the rationale for your
-strategy, consider what kind of intervention strategy is warranted – i.e., a
-population strategy, a targeted intervention for ‘high risk’ individuals or
-families, an intervention designed to impact a vulnerable subgroup of the
-population, or perhaps some combination of strategies.
-
-## Example from 2014
-
-The prevalence of food insecurity varies across Canada, but nowhere is it as
-high as in Nunavut.  In 2012, the national prevalence of household food
-insecurity was 12.6%, but 45.2% of households in Nunavut were food insecurei. 
-Moreover, 62.2% of children in Nunavut lived in food-insecure householdsii.  
-The prevalence of severe food insecurity was also much, much higher in Nunavut
-that elsewhere in Canada. What should be done about this problem?
-
-Considering what is currently known about household food insecurity in Canada’s
-North, what would you propose as an effective intervention strategy to reduce
-the prevalence and/or severity of food insecurity in Nunavut?   Drawing on key
-concepts from this course, outline an intervention strategy for the reduction of
-food insecurity in Nunavut.  Provide a clear rationale for the focus (or foci)
-of your strategy, identify the core elements of the intervention, and explain
-how, given your understanding of the problem, the strategy you propose should
-function to lower the prevalence and/or severity of household food insecurity in
-Nunavut.  In discussing the rationale for your strategy, consider what kind of
-intervention strategy is warranted – i.e., a population strategy delivered at
-the territorial or national level, a targeted intervention for ‘high risk’
-individuals or families in the territory, an intervention designed to impact a
-vulnerable subgroup of the Nunavut population, or perhaps some combination of
-strategies.
--->
-
-# Option 1
-
-## NFS1201: Assignment 3 (Nov. 18th, 2015)
-
-Household food insecurity is a recognized public health problem in Canada. 
-However, tackling household food insecurity is not a simple action. There is the 
-involvement of systemic and global circumstances to food insecurity, in addition
-to limited governmental resources and, often, political willpower to address 
-food insecurity. In the absence of any comprehensive, effective interventions at
-governmental levels, an extensive list of community and organization-level
-initiatives has developed, including food charities, community gardens and
-kitchens, and farmers' markets, to try to address the problems associated with
-food insecurity.
-
-Imagine you are a regular resident (eg. not a politician or on city council) of 
-Halifax, Nova Scotia, which has the highest rates of food insecurity 
-(2011-2012). You want to make a difference to the city by trying to reduce food 
-insecurity or at least improve the health of those who are food insecure. How 
-would you go about starting up a grass-roots, effective intervention or strategy
-to achieve this goal? Would you start a charity? A food bank? Are these 
-effective? Are there more effective, community level actions that could be 
-taken? Drawing on the key concepts learned in class and your review of the 
-evidence, outline an intervention strategy to reduce household food insecurity 
-and/or improve the health of those who are food insecure. Identify a clear 
-rationale for the focus, the core elements of the intervention, and how this 
-strategy, given your understanding of the problem, should influence household
-food insecurity in Halifax and/or improve the health of participants. Keep in
-mind the challenges involved in any community level intervention (eg. finances, 
-marketing) and the type of intervention warranted (eg. a population strategy for
-the city, targeting 'high risk' families or subgroups, or a combination).
-
-In doing this assignment, it is expected that you will critically review 
-literature on food insecurity to develop an evidence-based analysis of the 
-problem and its potential solutions. Your proposed intervention approach should
-be realistic, but this means that it needs to be evidence-based and clearly
-grounded in an analysis of the problem you are trying to fix.
-
-To make this assignment manageable, you may find it easiest to focus on a single
-intervention strategy, rather than an array of different interventions. Whatever
-intervention strategy you propose, it is important to pick something that you
-can argue persuasively would have a palpable impact on food insecurity in
-Halifax, Nova Scotia.
-
-Your assignment should be approximately 1,200 words in length, not including 
-references.  It should be submitted to FitzGerald building room 315 by 5pm on
-Wednesday, Dec. 16th, 2015 (any extension to this deadline will require prior
-approval from the instructor). Assignments submitted by fax or email will not be
-accepted. *Important: please have your title page, with your name, as a separate
-page from the rest of your written assignment*
-
-# Option 2
-
-## NFS1201: Assignment 3 (Nov. 18th, 2015)
-
-Reducing prevalence of household food insecurity is complex, societal challenge.
-Given it's role in health and disease, addressing food insecurity should be a 
-priority in any public health initiative. However, because of various barriers 
-involved, current interventions don't seem to be very effective when taking in
-consideration that prevalence rates for food insecurity have remained fairly 
-stable, even increasing in some cases, throughout Canada. There is a need for 
-strategies that are impactful enough to bring these rates down.
-
-Imagine you are recruited as part of a task force to identify ways to reduce 
-household food insecurity in Canada. But you are under severe restrictions, 
-including limited finances, political willpower, in addition to lack of other 
-important resources. You can really only implement one, *targeted/focused* 
-strategy. As such, the strategy must be maximally impactful, with a very high 
-benefit-to-cost ratio (ie. very effective). What would your strategy be? Drawing
-on the key concepts learned in class and your review of the evidence, outline an
-intervention strategy to reduce household food insecurity and/or improve the 
-health of those who are food insecure. Identify a clear rationale for the focus, 
-the core elements of the intervention, and how this strategy, given your 
-understanding of the problem, should reduce household food insecurity
-prevalence. Try to incorporate some successful strategies that worked in other
-countries that also have limited resources. Keep in mind the challenges involved
-(eg. finances, marketing, resources) and the type of intervention warranted (eg.
-a population strategy for Canada, targeting 'high risk' provinces (eg. Nunavut)
-or go for provinces the with most food insecure households (eg. Ontario and
-Quebec), targeting 'high risk' subgroups, or a combination).
-
-In doing this assignment, it is expected that you will critically review 
-literature on food insecurity to develop an evidence-based analysis of the 
-problem and its potential solutions. Your proposed intervention approach should
-be realistic, but this means that it needs to be evidence-based and clearly
-grounded in an analysis of the problem you are trying to fix.
-
-To make this assignment manageable, you may find it easiest to focus on a single
-intervention strategy, rather than an array of different interventions. Whatever
-intervention strategy you propose, it is important to pick something that you
-can argue persuasively would have a palpable impact on food insecurity in
-Canada, the province, or area you focus on.
-
-Your assignment should be approximately 1,200 words in length, not including 
-references.  It should be submitted to FitzGerald building room 315 by 5pm on
-Wednesday, Dec. 16th, 2015 (any extension to this deadline will require prior
-approval from the instructor). Assignments submitted by fax or email will not be
-accepted.
-
-# Option 3
-
-## NFS1201: Assignment 3 (Nov. 18th, 2015)
+# NFS1201: Assignment 3 (Nov. 18th, 2015)
 
 Household food insecurity is a known public health problem in Canada, with an 
-associated higher risk for diseases that has an personal and economic cost for 
-Canadians (both individual and governmental). Tackling household food insecurity
-is not a simple action. There are systemic and global challenges to tackling 
-household food insecurity as well as limited government resources, often 
-including a lack of political willpower. However, there is high hope and spirits
-for change after the election of the Liberal party to federal parliamentary
-majority, which may improve political willpower to make major changes to health
-policies.
+associated higher risk for diseases that have a personal and economic cost for 
+Canadians (both individually and governmentally). Tackling household food 
+insecurity is not a simple action as there are systemic and global 
+considerations, as well as limited government resources, often including a lack 
+of political willpower. Current interventions don't seem to be very effective 
+given that prevalence rates for food insecurity have remained fairly stable, 
+even increasing in some cases, throughout Canada and so there is a need for
+strategies to meaningfully reduce the rates. With the recent election of the
+Liberal party to a federal parliamentary majority, there is high hopes and 
+spirits that change can be achieved. *Political willpower is there* to make 
+major changes to health policies and the Liberal party has stated that if need 
+be they *will run a deficit* in order to achieve some of their goals.
 
-Jane Philpott, a medical physician, was recently appointed to the Liberal
-cabinet as Minister of Health. Imagine you are Jane and that you had an
-opportunity to completely renovate how the government tackles household food
-insecurity. What policies or programs would you implement to help reduce food
-insecurity in Canada nationally? Drawing on the key concepts learned in class
-and your review of the evidence, outline an intervention strategy to reduce
-household food insecurity and/or improve the health of those who are food 
-insecure. Identify a clear rationale for the focus, the core elements of the 
-intervention, and how this strategy, given your understanding of the problem, 
-should influence household food insecurity in Canada. Without letting it get in 
-the way of planning an effective intervention, keep in mind the challenges 
-involved in any federal level intervention (eg. finances, resources), the 
-cost-benefit of the intervention, and the type of intervention warranted (eg. a 
-population strategy for the whole country, targeting 'high risk' subgroups, 
-targeting specific provinces, or a combination).
+Jane Philpott, a medical physician, was recently appointed to the Liberal 
+cabinet as Minister of Health. As part of an overall goal of improving the 
+health of Canadians, Philpott has put to together several task forces, one of 
+which is specific to reducing household food insecurity. However, an important 
+constraint on the task force is that only one, *targeted/focused* strategy can 
+be implemented. As such, the strategy should *preferably* be as impactful and as
+effective as possible. Imagine you are recruited as part of that task force to
+address food insecurity. What policies, programs, or strategies would you
+implement to help reduce food insecurity in Canada nationally? Drawing on the
+key concepts learned in class and your review of the evidence, outline an
+intervention strategy to reduce household food insecurity in Canada. Identify a
+clear rationale for the focus, the core elements of the intervention, and how
+this strategy, given your understanding of the problem, should reduce household
+food insecurity. Without letting it get in the way of developing an effective
+intervention, keep in mind potential challenges and barriers (e.g. finances,
+marketing, resources) and the type of intervention warranted, e.g. a population
+strategy for Canada, targeting 'high risk' provinces or subgroups, focusing
+on provinces or areas with most food insecure households (e.g. Ontario and
+Quebec), or a combination of approaches.
 
 In doing this assignment, it is expected that you will critically review 
-literature on food insecurity to develop an evidence-based analysis of the 
-problem and its potential solutions. Your proposed intervention approach should
-be realistic, but this means that it needs to be evidence-based and clearly
-grounded in an analysis of the problem you are trying to fix.
+literature on food insecurity to develop an *evidence-based analysis* of the 
+problem and its potential solutions. Your proposed intervention approach should 
+be *realistic*, meaning that it needs to be evidence-based and clearly grounded in
+an analysis of the problem you are trying to fix.
 
-To make this assignment manageable, you may find it easiest to focus on a single
-intervention strategy, rather than an array of different interventions. Whatever
-intervention strategy you propose, it is important to pick something that you 
-can argue persuasively would have a palpable impact on food insecurity
-nationally in Canada.
+Given the assignment details, you will need to focus on a single intervention
+strategy. Regardless of the type of strategy you propose, it is important to
+pick something that you can argue persuasively would have a palpable impact on
+food insecurity in Canada, the province, or area you focus on.
 
 Your assignment should be approximately 1,200 words in length, not including 
-references.  It should be submitted to FitzGerald building room 315 by 5pm on
-Wednesday, Dec. 16th, 2015 (any extension to this deadline will require prior
-approval from the instructor). Assignments submitted by fax or email will not be
-accepted. *Important: please have your title page, with your name, as a separate
-page from the rest of your written assignment*
+references.  It should be submitted to FitzGerald building room 315 by 5pm on 
+Wednesday, Dec. 16th, 2015 (any extension to this deadline will require prior 
+approval from the instructor). Assignments should be submitted by hard-copy; 
+emailing or faxing are possible subject to instructor approval. **Important**: 
+please have your title page, with your name, as a separate page from the rest of
+your written assignment.
